@@ -17,12 +17,13 @@ const introdata = {
 
 const dataabout = {
     title: "A glimpse about myself",
-    aboutme: "Experienced Software Engineer skilled in designing, constructing, and testing software systems, with a track record of impactful contributions in the tech sector. B.Sc. in Software Engineering from Prince Sultan University College of CS & IS. Currently looking to utilize my expertise and understanding of all aspects of the software development life cycle (SDLC) to continue professional development.",
+    aboutme: "Results-Driven Agile Software Engineer (2 years) with a passion for empowering clients through innovative software solutions. Contributed to PSU-GPT, a pioneering university-wide AI system. Bridge complex client needs with impactful results using expert problem-solving and full SDLC proficiency. Eager to leverage skills for client success as a Software Consultant.",
 };
-const worktimeline = [{
-        jobtitle: "Software Engineer COOP",
-        where: "WSM Co.",
-        date: "2022",
+const worktimeline = [
+    {
+        jobtitle: "Web developer",
+        where: "Pencil Agency",
+        date: "2024",
     },
     {
         jobtitle: "Front End developer, UI/UX Designer",
@@ -30,10 +31,11 @@ const worktimeline = [{
         date: "2023",
     },
     {
-        jobtitle: "Web developer",
-        where: "Pencil Agency",
-        date: "2024",
+        jobtitle: "Software Engineer COOP",
+        where: "WSM Co.",
+        date: "2022",
     },
+
 ];
 
 const skills = [{
@@ -42,7 +44,11 @@ const skills = [{
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 85,
+    },
+    {
+        name: "Python",
+        value: 60,
     },
     {
         name: "HTML",
@@ -58,7 +64,7 @@ const skills = [{
     },
     {
         name: "TailwindCSS",
-        value: 85,
+        value: 95,
     },
     
     {
@@ -77,6 +83,7 @@ const skills = [{
         name: "JUnit",
         value: 65,
     },
+
 ];
 
 const services = [{
@@ -107,53 +114,69 @@ const services = [{
         title: "AI Integration & LLMs",
         description: "AI Integration Specialist skilled in seamlessly integrating AI technologies into websites and systems. Proficient in leveraging OpenAI playgrounds and autotuning Large Language Models (LLMs) for enhanced functionality. Experienced in designing and implementing AI-driven solutions, optimizing user experiences with cutting-edge technology.",
     },
+    {
+        title: "Project Management & Collaboration",
+        description: "Adept in using Jira, Bitbucket, and GitHub for efficient project management, version control, and code collaboration.",
+
+    },
+    {
+        title: "Development & Testing",
+        description: "Proficient in Vite.js for modern web development and utilize JUnit for comprehensive unit testing.",
+
+    },
+    {
+        title: "Deployment & Automation",
+        description: "Utilize Jenkins for automated builds and deployments.",
+
+    },
+    {
+        title: "Content Management Systems",
+        description: "Experienced with WordPress CMS for user-friendly content management and Strapi for building RESTful APIs.",
+
+    },
+
 ];
 
 const dataportfolio = [{
-        img: "https://images.unsplash.com/photo-1713900233557-51aaaca77d31?q=80&w=400&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1713900462062-d421d62def56?q=80&w=1843&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/400/800/?grayscale",
+        img: "https://images.unsplash.com/photo-1714490352864-f54d3bd86ec1?q=80&w=1532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "PAS ERP Responsive Website",
         link: "https://pas.sa/en/home/",
     },
 
     {
-        img: "https://images.unsplash.com/photo-1714286552957-27de7764b597?q=80&w=400&h=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        img: "https://images.unsplash.com/photo-1714492059771-52c666785c7d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Mastering ChatGPT Certificate.",
         link: "https://drive.google.com/file/d/1EQUEuG-3weKlrJKdMAQVhCon5qgfj5Yx/view",
     },
+    
+    
+    {
+        img: "https://images.unsplash.com/photo-1714490581342-f06626e89a9f?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "Masar SBF Internal Portal Project",
+        link: "https://sportsboulevard.sa/en",
+    },
+    {
+        img: "https://images.unsplash.com/photo-1714484884870-e20d32fe590d?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "MY CV",
+        link: "https://drive.google.com/file/d/1g1uerUafijCJLLhRLAXSZPFQa6JkBxiR/view?usp=sharing",
+    },
+    
     {
         img: "https://picsum.photos/400/550/?grayscale",
         description: "Current Enrolled Courses & Updates",
         link: "#",
     },
-    
-    
     {
-        img: "https://images.unsplash.com/photo-1714286314601-10e4d4189b76?q=80&w=400&h=500&auto=format&fit=crop",
+        img: "https://images.unsplash.com/photo-1714489606402-335ff01d5357?q=80&w=1532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "PSU GPT AI Project",
         link: "https://psugpt.ai/",
     },
 
-
     {
-        img: "https://images.unsplash.com/photo-1714286264849-aca448aa396b?q=80&w=400&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        img: "https://images.unsplash.com/photo-1714491616010-d6f95e9f13ea?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Dono PSU Graduation Project",
         link: "https://donoapp.com/",
     },
-
-    
-    {
-        img: "https://images.unsplash.com/photo-1714286618785-fba8333312fa?q=80&w=300&h=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        description: "Masar SBF Internal Portal Project",
-        link: "https://sportsboulevard.sa/en",
-    },
-   
-   
-    {
-        img: "https://images.unsplash.com/photo-1714295074011-b387cb084b06?q=80&w=400&h=700&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        description: "MY CV",
-        link: "https://drive.google.com/file/d/1nmkxUtyRVROZ-DACh52y7Mk9CCi2Ojn4/view?usp=sharing",
-    },
-   
 ];
 
 const contactConfig = {
