@@ -151,7 +151,7 @@ const dataportfolio = [{
     {
         img: "https://images.unsplash.com/photo-1714295074011-b387cb084b06?q=80&w=400&h=700&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "MY CV",
-        link: "https://drive.google.com/file/d/1g1uerUafijCJLLhRLAXSZPFQa6JkBxiR/view?usp=sharing",
+        link: "https://drive.google.com/file/d/1AZQypXHtYRWnkhUVAgzgWOEfBGycH23c/view?usp=sharing",
     },
    
 ];
