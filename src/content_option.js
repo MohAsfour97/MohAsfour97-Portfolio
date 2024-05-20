@@ -118,7 +118,7 @@ const dataportfolio = [{
     {
         img: "https://images.unsplash.com/photo-1714286552957-27de7764b597?q=80&w=400&h=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Mastering ChatGPT Certificate.",
-        link: "https://drive.google.com/file/d/1EQUEuG-3weKlrJKdMAQVhCon5qgfj5Yx/view",
+        link: "https://drive.google.com/file/d/1NHuA_svSB3scyFjZAXrbv0mCqi1E9q0C/view?usp=drive_link",
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
