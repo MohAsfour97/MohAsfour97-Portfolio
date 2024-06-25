@@ -1,15 +1,15 @@
 const logotext = "Mohammed Asfour";
 const meta = {
     title: "Mohammed Asfour",
-    description: "I’m Mohammed F Asfour Software engineer _ Full stack devloper,currently working in Riyadh, Saudi Arabia",
+    description: "I’m Mohammed F Asfour Software engineer_ Data Analayst Specialist,currently working at Mawarid ManPower Company in Riyadh, Saudi Arabia",
 };
 
 const introdata = {
     title: "I’m Mohammed F Asfour",
     animated: {
-        first: "I blend Innovation & Software.",
-        second: "I code, design modern websites.",
-        third: "I develop mobile apps too!",
+        first: "I blend Innovation with Technology.",
+        second: "Data/Busniness Analayst Specialist expertise",
+        third: "Developed a Futuristic AI System",
     },
     description: "Passionate software engineer turning ideas into elegant code, and crafting solutions to complex problems.. Skilled in Software/Web development. Always coding, always learning.",
     your_img_url: "https://images.unsplash.com/photo-1713892121959-7179fdca18fc?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
